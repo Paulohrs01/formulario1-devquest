@@ -1,0 +1,36 @@
+@media (max-width: 1170px) {
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;   
+        margin-right: 50px;
+     }
+
+    .container .duvida {
+        margin-top: 40px;
+        text-align: center;
+        width: 300px;
+    }
+
+    .container .form {
+        margin-left: 0px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+}
+
+@media (max-width: 550px) {
+
+    .container .duvida h1 {
+    font-size: 20px;
+    }
+
+    .container .duvida p {
+        font-size: 15px;
+        }
+    
+
+}
