@@ -4,9 +4,9 @@ Desafio do Curso DevQuest com objetivo de fazer um formulário usando o Design p
 (No design do Desafio não tinha os "❗✅" mas quis fazer com)
 
 #
-## Sem Validação: <img src="./readme-file/sem-validacao.png">
+## Sem Validação: <img src="./src/readme-file/com-validacao.png">
 
-## Com Validação: <img src="./readme-file/com-validacao.png"> 
+## Com Validação: <img src="./src/readme-file/com-validacao.png"> 
 
 Link do projeto: <br>
 https://paulohrs01.github.io/formulario1-devquest/
